@@ -6,5 +6,4 @@
 
 # [ Pulling the latest binary release from the 'bat' repository on GitHub ]
 
-wget 
 
